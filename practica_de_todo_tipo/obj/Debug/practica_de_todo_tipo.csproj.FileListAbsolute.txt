@@ -1,0 +1,9 @@
+C:\Users\Lab Estudiante\Documents\Programación avanzada segundo cuatrimestre\Proyecto a entregar\Proyecto de aplicación\practica_de_todo_tipo\practica_de_todo_tipo\bin\Debug\practica_de_todo_tipo.exe.config
+C:\Users\Lab Estudiante\Documents\Programación avanzada segundo cuatrimestre\Proyecto a entregar\Proyecto de aplicación\practica_de_todo_tipo\practica_de_todo_tipo\bin\Debug\practica_de_todo_tipo.exe
+C:\Users\Lab Estudiante\Documents\Programación avanzada segundo cuatrimestre\Proyecto a entregar\Proyecto de aplicación\practica_de_todo_tipo\practica_de_todo_tipo\bin\Debug\practica_de_todo_tipo.pdb
+C:\Users\Lab Estudiante\Documents\Programación avanzada segundo cuatrimestre\Proyecto a entregar\Proyecto de aplicación\practica_de_todo_tipo\practica_de_todo_tipo\obj\Debug\practica_de_todo_tipo.csproj.AssemblyReference.cache
+C:\Users\Lab Estudiante\Documents\Programación avanzada segundo cuatrimestre\Proyecto a entregar\Proyecto de aplicación\practica_de_todo_tipo\practica_de_todo_tipo\obj\Debug\practica_de_todo_tipo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lab Estudiante\Documents\Programación avanzada segundo cuatrimestre\Proyecto a entregar\Proyecto de aplicación\practica_de_todo_tipo\practica_de_todo_tipo\obj\Debug\practica_de_todo_tipo.csproj.CoreCompileInputs.cache
+C:\Users\Lab Estudiante\Documents\Programación avanzada segundo cuatrimestre\Proyecto a entregar\Proyecto de aplicación\practica_de_todo_tipo\practica_de_todo_tipo\obj\Debug\practica_de_todo_tipo.exe
+C:\Users\Lab Estudiante\Documents\Programación avanzada segundo cuatrimestre\Proyecto a entregar\Proyecto de aplicación\practica_de_todo_tipo\practica_de_todo_tipo\obj\Debug\practica_de_todo_tipo.pdb
+C:\Users\Lab Estudiante\Documents\Programación avanzada segundo cuatrimestre\Proyecto a entregar\Proyecto de aplicación\practica_de_todo_tipo\practica_de_todo_tipo\obj\Debug\practica_de_todo_tipo.csproj.CopyComplete
